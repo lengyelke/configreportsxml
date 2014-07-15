@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040111"><visible><![CDATA[1]]></visible>
+<name><![CDATA[course: team submission groups' status]]></name>
+<summary><![CDATA[<p>team submission groups in this course with submissions' status</p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6NjYyOiJzZWxlY3QlMEQlMEFjb25jYXQlMjglMjclM0NhK3RhcmdldCUzRCUyMl9uZXclMjIraHJlZiUzRCUyMiUyNSUyNVdXV1JPT1QlMjUlMjUlMkZtb2QlMkZhc3NpZ24lMkZ2aWV3LnBocCUzRmlkJTNEJTI3JTJDY20uaWQlMkMlMjclMjIlM0UlMjclMkNhLm5hbWUlMkMlMjclM0MlMkZhJTNFJTI3JTI5K0FTK2Fzc2luZ21lbnRuYW1lJTJDJTBEJTBBZy5uYW1lJTJDKyUwRCUwQWFzbS5zdGF0dXMlMEQlMEFmcm9tK3ByZWZpeF9hc3NpZ24rYXMrYSUwRCUwQWpvaW4rcHJlZml4X2dyb3VwaW5nc19ncm91cHMrYXMrZ2crb24rZ2cuZ3JvdXBpbmdpZCUzRGEudGVhbXN1Ym1pc3Npb25ncm91cGluZ2lkJTBEJTBBam9pbitwcmVmaXhfZ3JvdXBzK2FzK2crb24rZy5pZCUzRGdnLmdyb3VwaWQlMEQlMEFqb2luK3ByZWZpeF9jb3Vyc2VfbW9kdWxlcythcytjbStvbitjbS5jb3Vyc2UrJTNEK2EuY291cnNlK2FuZCtjbS5pbnN0YW5jZSslM0QrYS5pZCUwRCUwQWxlZnQram9pbitwcmVmaXhfYXNzaWduX3N1Ym1pc3Npb24rYXMrYXNtK29uK2FzbS5ncm91cGlkJTNEZy5pZCUwRCUwQXdoZXJlK2EudGVhbXN1Ym1pc3Npb24lM0QxK2FuZCUwRCUwQWNtLm1vZHVsZSUzRDErYW5kJTBEJTBBYS5jb3Vyc2UlM0QlMjUlMjVDT1VSU0VJRCUyNSUyNSUwRCUwQW9yZGVyK2J5K2cubmFtZSI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMjoiU2F2ZStjaGFuZ2VzIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX19]]></components>
+<export><![CDATA[csv,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040111"><visible><![CDATA[1]]></visible>
+<name><![CDATA[site: my HIDDEN courses as manager]]></name>
+<summary><![CDATA[<p>for current user who is in 'other users'</p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[20]]></pagination>
+<components><![CDATA[YTozOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6NzcwOiJTRUxFQ1QrK2NvbmNhdCUyOCUyNyUzQ2ErdGFyZ2V0JTNEJTIyX25ldyUyMitocmVmJTNEJTIyJTI1JTI1V1dXUk9PVCUyNSUyNSUyRmNvdXJzZSUyRnZpZXcucGhwJTNGaWQlM0QlMjclMkNjLmlkJTJDJTI3JTIyJTNFJTI3JTJDYy5mdWxsbmFtZSUyQyUyNyUzQyUyRmElM0UlMjclMjkrYXMrY291cnNlZnVsbG5hbWUlMkMrYy5zaG9ydG5hbWUlMkMrYy5pZG51bWJlcislMEQlMEFGUk9NK3ByZWZpeF9yb2xlX2Fzc2lnbm1lbnRzK3JhJTBEJTBBSk9JTitwcmVmaXhfdXNlcit1K09OK3UuaWQrJTNEK3JhLnVzZXJpZCUwRCUwQUpPSU4rcHJlZml4X2NvbnRleHQrY3R4K09OK3JhLmNvbnRleHRpZCslM0QrY3R4LmlkJTBEJTBBSk9JTitwcmVmaXhfY291cnNlK2MrT04rYy5pZCslM0QrY3R4Lmluc3RhbmNlaWQlMEQlMEFsZWZ0K2pvaW4rJTI4JTBEJTBBU0VMRUNUK2MuaWQlMEQlMEFGUk9NK3ByZWZpeF9jb3Vyc2UrQVMrYyUwRCUwQUpPSU4rcHJlZml4X2Vucm9sK0FTK2UrT04rZS5jb3Vyc2VpZCslM0QrYy5pZCUwRCUwQUpPSU4rcHJlZml4X3VzZXJfZW5yb2xtZW50cytBUyt1ZStPTit1ZS5lbnJvbGlkKyUzRCtlLmlkJTBEJTBBV0hFUkUrdWUudXNlcmlkKyUzRCUyNSUyNVVTRVJJRCUyNSUyNSUwRCUwQSUyOSthcyt1ZStPTit1ZS5pZCUzRGMuaWQlMEQlMEFXSEVSRStyYS5yb2xlaWQrJTNEMSUwRCUwQUFORCtjdHguY29udGV4dGxldmVsKyUzRDUwJTBEJTBBYW5kK3UuaWQlM0QlMjUlMjVVU0VSSUQlMjUlMjUlMEQlMEFhbmQrdWUuaWQraXMrbnVsbCI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMjoiU2F2ZStjaGFuZ2VzIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX1zOjc6ImZpbHRlcnMiO2E6MTp7czo4OiJlbGVtZW50cyI7YTowOnt9fXM6MTE6InBlcm1pc3Npb25zIjthOjI6e3M6NjoiY29uZmlnIjtPOjY6Im9iamVjdCI6MTp7czoxMzoiY29uZGl0aW9uZXhwciI7czowOiIiO31zOjg6ImVsZW1lbnRzIjthOjA6e319fQ==]]></components>
+<export><![CDATA[csv,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>

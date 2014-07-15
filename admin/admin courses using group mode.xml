@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040111"><visible><![CDATA[1]]></visible>
+<name><![CDATA[admin: courses using group mode]]></name>
+<summary><![CDATA[<p>site wide</p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[20]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6NTczOiJTRUxFQ1QrY29uY2F0JTI4JTI3JTNDYSt0YXJnZXQlM0QlMjJfbmV3JTIyK2hyZWYlM0QlMjIlMjUlMjVXV1dST09UJTI1JTI1JTJGY291cnNlJTJGdmlldy5waHAlM0ZpZCUzRCUyNyUyQ2MuaWQlMkMlMjclMjIlM0UlMjclMkNjLmZ1bGxuYW1lJTJDJTI3JTNDJTJGYSUzRSUyNyUyOStBUytDb3Vyc2UlMkMlMEQlMEElMjhTRUxFQ1QrQ09VTlQlMjglMkElMjkrRlJPTStwcmVmaXhfY291cnNlX21vZHVsZXMrY20rV0hFUkUrY20uY291cnNlKyUzRCtjLmlkJTI5K01vZHVsZXMlMkMlMEQlMEFjb25jYXQlMjglMjclM0NhK3RhcmdldCUzRCUyMl9uZXclMjIraHJlZiUzRCUyMiUyNSUyNVdXV1JPT1QlMjUlMjUlMkZncm91cCUyRmluZGV4LnBocCUzRmlkJTNEJTI3JTJDYy5pZCUyQyUyNyUyMiUzRSUyNyUyQyUyOFNFTEVDVCtDT1VOVCUyOCUyQSUyOStGUk9NK3ByZWZpeF9ncm91cHMrZytXSEVSRStnLmNvdXJzZWlkKyUzRCtjLmlkJTI5JTJDJTI3JTNDJTJGYSUzRSUyNyUyOStHcm91cHMlMEQlMEErRlJPTSslNjBwcmVmaXhfY291cnNlJTYwK0FTK2MlMEQlMEFXSEVSRStncm91cG1vZGUrJTNFKzAlMEQlMEEiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTI6IlNhdmUrY2hhbmdlcyI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319fQ==]]></components>
+<export><![CDATA[csv,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>

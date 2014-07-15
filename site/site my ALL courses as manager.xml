@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040111"><visible><![CDATA[1]]></visible>
+<name><![CDATA[site: my ALL courses as manager]]></name>
+<summary><![CDATA[<p>for current user, not just enrolled courses</p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[20]]></pagination>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6NDk0OiJTRUxFQ1QrK2NvbmNhdCUyOCUyNyUzQ2ErdGFyZ2V0JTNEJTIyX25ldyUyMitocmVmJTNEJTIyJTI1JTI1V1dXUk9PVCUyNSUyNSUyRmNvdXJzZSUyRnZpZXcucGhwJTNGaWQlM0QlMjclMkNjLmlkJTJDJTI3JTIyJTNFJTI3JTJDYy5mdWxsbmFtZSUyQyUyNyUzQyUyRmElM0UlMjclMjkrYXMrY291cnNlZnVsbG5hbWUlMkMrYy5zaG9ydG5hbWUlMkMrYy5pZG51bWJlciUwRCUwQUZST00rcHJlZml4X3JvbGVfYXNzaWdubWVudHMrcmElMEQlMEFKT0lOK3ByZWZpeF91c2VyK3UrT04rdS5pZCslM0QrcmEudXNlcmlkJTBEJTBBSk9JTitwcmVmaXhfY29udGV4dCtjdHgrT04rcmEuY29udGV4dGlkKyUzRCtjdHguaWQlMEQlMEFKT0lOK3ByZWZpeF9jb3Vyc2UrYytPTitjLmlkKyUzRCtjdHguaW5zdGFuY2VpZCUwRCUwQVdIRVJFK3JhLnJvbGVpZCslM0QxJTBEJTBBQU5EK2N0eC5jb250ZXh0bGV2ZWwrJTNENTAlMEQlMEFhbmQrdS5pZCUzRCUyNSUyNVVTRVJJRCUyNSUyNSI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMjoiU2F2ZStjaGFuZ2VzIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX1zOjc6ImZpbHRlcnMiO2E6MTp7czo4OiJlbGVtZW50cyI7YTowOnt9fX0=]]></components>
+<export><![CDATA[csv,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[2]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
